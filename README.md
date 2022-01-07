@@ -43,6 +43,6 @@ $./fractal
 
 -[julia] [im] [re]
 ````
-
-[Subject](./fract-ol.en.subject.pdf) is a task file.
+#### You can check task file
+[Subject](./fract-ol.en.subject.pdf)
 
