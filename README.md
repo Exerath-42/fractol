@@ -44,7 +44,5 @@ $./fractal
 -[julia] [im] [re]
 ````
 
-##### You can check subject
-
-[subject.pdf](./fract-ol.en.subject.pdf)
+[Subject](./fract-ol.en.subject.pdf) is a task file.
 
