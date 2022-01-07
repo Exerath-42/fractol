@@ -43,6 +43,6 @@ $./fractal
 
 -[julia] [im] [re]
 ````
-#### You can check task file
+#### You can see the task file
 [Subject](./fract-ol.en.subject.pdf)
 
